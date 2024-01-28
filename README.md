@@ -1,6 +1,6 @@
 # Website simpel to-do List
 ## LIVE DEMO
-### https://teplolite.github.io/dice-game/
+### https://teplolite.github.io/to-do-list/
 ### This is coded by Naufal
 ### Please star this repo and follow me here on Github so that other can find this repository.
 
